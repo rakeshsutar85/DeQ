@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317281067620",
+    "project_id": "dequ-ad9c5",
+    "storage_bucket": "dequ-ad9c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317281067620:android:3ed7deefba4f09f6be7571",
+        "android_client_info": {
+          "package_name": "com.deq.deq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzH390tvBU8cSrr_Og-oW9t13Xt9vuJMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
